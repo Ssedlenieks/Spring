@@ -1,5 +1,4 @@
-package rvt;
-
+package rvt.exercises;
 
 public class PaymentTerminal {
     private double money;  // amount of cash

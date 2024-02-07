@@ -1,4 +1,4 @@
-package rvt;
+package rvt.exercises;
 
 public class Sorted {
     public static int smallest(int[] array){

@@ -1,4 +1,4 @@
-package lv.rvt;
+package lv.rvt.exercises;
 
 import static org.junit.Assert.assertTrue;
 

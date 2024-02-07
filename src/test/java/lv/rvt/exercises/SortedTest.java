@@ -1,8 +1,9 @@
-package lv.rvt;
+package lv.rvt.exercises;
 
 import org.junit.Test;
 
-import rvt.Sorted;
+import rvt.exercises.Sorted;
+
 import static org.junit.Assert.assertEquals;
 import java.util.Arrays;
 

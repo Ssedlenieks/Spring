@@ -1,7 +1,7 @@
 package lv;
-import rvt.PaymentTerminal;
-import rvt.PaymentCard;
-import rvt.Sorted;
+import rvt.exercises.PaymentCard;
+import rvt.exercises.PaymentTerminal;
+import rvt.exercises.Sorted;
 
 public class MainProgram {
     public static void main(String[] args) {

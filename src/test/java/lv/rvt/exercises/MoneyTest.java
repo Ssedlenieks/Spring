@@ -1,10 +1,10 @@
-package lv.rvt;
+package lv.rvt.exercises;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import rvt.Money;
+import rvt.exercises.Money;
 
 public class MoneyTest {
 
